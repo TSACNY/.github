@@ -20,7 +20,7 @@ Follow along. We'll have more to share soon.
 
 We publish open research on agentic systems, human-computer interaction, and the future of personal computing. Findings are made available to the broader research community as part of our commitment to advancing the field.
 
--> [`research`](https://github.com/TSACNY/research)
+→ [`research`](https://github.com/TSACNY/research)
 
 ---
 
